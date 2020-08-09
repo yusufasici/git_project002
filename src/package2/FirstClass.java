@@ -13,6 +13,7 @@ public class FirstClass {
 		System.out.println("This is 2nd commit from Remote / Master");
 		
 		System.out.println("1st Commit from ziya branch");
+		System.out.println("Here should be CONFLICT");
 		
 	}
 
