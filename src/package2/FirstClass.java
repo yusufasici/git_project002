@@ -14,6 +14,7 @@ public class FirstClass {
 		
 		System.out.println("1st Commit from ziya branch");
 		System.out.println("This is the 2nd commit from Local/ZiyaBranch");
+		System.out.println("Here should be CONFLICT");
 		
 	}
 
