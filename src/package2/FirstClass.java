@@ -10,6 +10,8 @@ public class FirstClass {
 		System.out.println("This is 1st commit from Remote / Master");
 		System.out.println("This is 4th commit from Local / Master");
 		
+		System.out.println("This is 2nd commit from Remote / Master");
+		
 	}
 
 }
